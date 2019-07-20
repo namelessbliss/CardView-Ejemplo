@@ -5,4 +5,4 @@
 -	POJO Pelicula de horror
 -	Funcion de añadir peliculas y quitar
 
-<img src="https://github.com/namelessbliss/CardView-Ejemplo/capturas/captura.gif">
+<img src="https://github.com/namelessbliss/CardView-Ejemplo/blob/master/capturas/captura.gif">
